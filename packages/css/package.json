@@ -2,7 +2,7 @@
     "name": "@orbit-ui/css",
     "version": "2.1.2",
     "description": "Orbit CSS bootstrap",
-    "repository": "https://github.com/gsoft-inc/sg-orbit.git",
+    "repository": "https://github.com/workleap/sg-orbit.git",
     "author": "Groupe ShareGate inc.",
     "license": "Apache-2.0",
     "main": "src/index.css",
