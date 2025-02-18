@@ -10,7 +10,7 @@ The following documentation is only for the maintainers of this repository.
 
 In order to be included in Orbit an icon must satisfy the following guidelines
 
-- It should not be specific to an app, e.g. Azure specific icons. <img src="https://raw.githubusercontent.com/gsoft-inc/sg-orbit/master/packages/icons/assets/app-specific-icon.png" width="27">
+- It should not be specific to an app, e.g. Azure specific icons. <img src="https://raw.githubusercontent.com/workleap/sg-orbit/master/packages/icons/assets/app-specific-icon.png" width="27">
 
 - It must be used as part of an interface, illustrations and product icons shouldn't be submitted to this library.
 
@@ -30,4 +30,4 @@ In order to be included in Orbit an icon must satisfy the following guidelines
 
 ## License
 
-Copyright © 2023, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE.
+Copyright © 2023, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/workleap/gsoft-license/blob/master/LICENSE.

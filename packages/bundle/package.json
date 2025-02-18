@@ -2,7 +2,7 @@
     "name": "@sharegate/orbit-ui",
     "version": "35.0.3",
     "description": "Orbit design system",
-    "repository": "https://github.com/gsoft-inc/sg-orbit.git",
+    "repository": "https://github.com/workleap/sg-orbit.git",
     "author": "Groupe ShareGate inc.",
     "license": "Apache-2.0",
     "main": "dist/index.js",

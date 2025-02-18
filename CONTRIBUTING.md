@@ -303,7 +303,7 @@ Therefore, prefer this approach to [interactions](#interaction-testing) and [api
 
 Setting all the tools to perform automated visual tests involve a lot of time and knowledge. Therefore, we bought a license of [Chromatic QA](https://www.chromaticqa.com). This is the perfect tool for us since it perfectly integrate with Storybook. 
 
-For access to our Chromatic QA environment, ask to join the [gsoft-inc](https://github.com/gsoft-inc) organization on Github.
+For access to our Chromatic QA environment, ask to join the [gsoft-inc](https://github.com/workleap) organization on Github.
 
 For more information about automated visual testing:
 
@@ -340,7 +340,7 @@ To facilite those tests, we use a combination of [Jest](https://jestjs.io/) and 
 
 ## CI
 
-[Circle CI](https://circleci.com) is the continuous integration platform for this repository. To have access to the CI environment, ask to join the [gsoft-inc](https://github.com/gsoft-inc) on Github.
+[Circle CI](https://circleci.com) is the continuous integration platform for this repository. To have access to the CI environment, ask to join the [gsoft-inc](https://github.com/workleap) on Github.
 
 2 builds are currently configured:
 
@@ -370,7 +370,7 @@ Sadly the Chromatic CLI doesn't properly relay Storybook compilation errors. To 
 
 There is a few steps to add a new packages to the monorepo.
 
-Before you add a new package, please read the [GSoft Github guidelines](https://github.com/gsoft-inc/github-guidelines#npm-package-name).
+Before you add a new package, please read the [GSoft Github guidelines](https://github.com/workleap/github-guidelines#npm-package-name).
 
 ### Create the package
 
@@ -384,7 +384,7 @@ yarn init
 
 Answer the CLI questions.
 
-Once the *package.json* is generated, please read again the [GSoft Github guidelines](https://github.com/gsoft-inc/github-guidelines#npm-package-name) and make sure the package name, author and license are valid.
+Once the *package.json* is generated, please read again the [GSoft Github guidelines](https://github.com/workleap/github-guidelines#npm-package-name) and make sure the package name, author and license are valid.
 
 Don't forget to add the [npm scope](https://docs.npmjs.com/about-scopes) *"@orbit-ui"* before the package name. For example if the project name is "foo", your package name should be "@orbit-ui/foo".
 

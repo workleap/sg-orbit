@@ -2,7 +2,7 @@
   "name": "sg-orbit",
   "version": "0.0.0",
   "private": true,
-  "repository": "https://github.com/gsoft-inc/sg-orbit.git",
+  "repository": "https://github.com/workleap/sg-orbit.git",
   "license": "Apache-2.0",
   "workspaces": {
     "packages": [

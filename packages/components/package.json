@@ -2,7 +2,7 @@
     "name": "@orbit-ui/components",
     "version": "35.0.3",
     "description": "Orbit components",
-    "repository": "https://github.com/gsoft-inc/sg-orbit.git",
+    "repository": "https://github.com/workleap/sg-orbit.git",
     "author": "Groupe Sharegate inc.",
     "license": "Apache-2.0",
     "main": "dist/index.js",

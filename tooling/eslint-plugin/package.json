@@ -13,7 +13,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gsoft-inc/sg-orbit.git",
+        "url": "git+https://github.com/workleap/sg-orbit.git",
         "directory": "tooling/eslint-plugin"
     },
     "license": "Apache-2.0",

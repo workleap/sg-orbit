@@ -2,7 +2,7 @@
     "name": "@orbit-ui/experimental",
     "version": "6.0.0",
     "description": "Orbit experimental components",
-    "repository": "https://github.com/gsoft-inc/sg-orbit.git",
+    "repository": "https://github.com/workleap/sg-orbit.git",
     "author": "Groupe Sharegate inc.",
     "license": "Apache-2.0",
     "main": "dist/index.js",

@@ -13,14 +13,14 @@ By having fewer requirements in regards to the design team approbation, testing 
 
 ## What should an “experimental” component support from day 1?
 An “experimental” component must:
-- Leverage Orbit’s [shared utilities](https://github.com/gsoft-inc/sg-orbit/tree/master/packages/components/src/shared/src)
+- Leverage Orbit’s [shared utilities](https://github.com/workleap/sg-orbit/tree/master/packages/components/src/shared/src)
 - Use Orbit’s [tokens](https://orbit.sharegate.design/?path=/docs/tokens--page), [color schemes](https://orbit.sharegate.design/?path=/docs/color-schemes--page) and [theming](https://orbit.sharegate.design/?path=/docs/theming--page)
 - Implement Orbit’s [style props](https://orbit.sharegate.design/?path=/docs/style-props--page)
 - Support Orbit’s [responsive styles](https://orbit.sharegate.design/?path=/docs/responsive-styles--page)
 - Support Orbit’s [as function](https://orbit.sharegate.design/?path=/docs/as--page)
-- Follow Orbit’s [components software design requirements](https://github.com/gsoft-inc/sg-orbit/tree/master/packages/components#design)
-- Match Orbit’s [developers experience expectations](https://github.com/gsoft-inc/sg-orbit/tree/master/packages/components#developer-experience)
-- Follow Orbit’s [naming conventions](https://github.com/gsoft-inc/sg-orbit/tree/master/packages/components#component-props-naming)
+- Follow Orbit’s [components software design requirements](https://github.com/workleap/sg-orbit/tree/master/packages/components#design)
+- Match Orbit’s [developers experience expectations](https://github.com/workleap/sg-orbit/tree/master/packages/components#developer-experience)
+- Follow Orbit’s [naming conventions](https://github.com/workleap/sg-orbit/tree/master/packages/components#component-props-naming)
 
 ## Rules
 As we do not want the package to me be misused nor cause harm to Orbit’s “stable” components we define rules which will guide our actions.
@@ -37,7 +37,7 @@ Those rules will have to be included in the “experimental” package documenta
 
 ## Adding a new “experimental” component
 
-Refer to the "Adding a new component" section in the [components' package README](https://github.com/gsoft-inc/sg-orbit/tree/master/packages/components#add-a-new-component)
+Refer to the "Adding a new component" section in the [components' package README](https://github.com/workleap/sg-orbit/tree/master/packages/components#add-a-new-component)
 
 ## Flagging an “experimental” component in the documentation
 
@@ -54,4 +54,4 @@ Some props are available to detail the component's status.
 
 ## License
 
-Copyright © 2023, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE.
+Copyright © 2023, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/workleap/gsoft-license/blob/master/LICENSE.
